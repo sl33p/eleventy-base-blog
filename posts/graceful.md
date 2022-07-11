@@ -4,8 +4,9 @@ title: Graceful
 date: 2020-05-09T16:21:07.615Z
 tags:
   - Post
+  - Degradation
 ---
-# 004. Graceful (Degradation)
+# 005. Graceful (Degradation)
 
 These thoughts are unstructured, I'm leaving them here to return to them later:
 

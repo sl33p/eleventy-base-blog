@@ -4,8 +4,9 @@ title: Inside
 date: 2020-05-25T17:28:51.651Z
 tags:
   - Post
+  - Circle
 ---
-# 006. Inside (the circle)
+# 007. Inside (the circle)
 
 All my life I have seen humour as one of the best traits you could find in a person. If you had wit and repartee I would almost certainly try to spend more time with you, verbal prowess meant more to me than skills in maths, sports, or science.
 

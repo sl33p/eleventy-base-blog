@@ -3,11 +3,12 @@ title: Cathedrals
 description: This is a post on My Blog about win-win survival strategies.
 date: 2014-03-03
 tags:
-  - second tag
-  - posts with two tags
+  - talk
+  - Gratification
+
 layout: layouts/post.njk
 ---
-# 000. Building Cathedrals
+# 001. Building Cathedrals
 
 
 _This is a talk delivered at Design and Banter, 3 March 2014_

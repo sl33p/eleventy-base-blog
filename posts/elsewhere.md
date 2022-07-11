@@ -4,12 +4,13 @@ title: Elsewhere
 date: 2019-10-13T22:10:14.810Z
 tags:
   - Post
+  - Presence
 ---
-# 002. Elsewhere (Presence)
+# 003. Elsewhere (Presence)
 
-In the roll-call, when they call your name you reply with "present", as in I'm here, right now, in this space. 
+In the roll-call, when they call your name you reply with "present", as in I'm here, right now, in this space.
 
-In the mindfulness sense, presence is, if I've understood things correctly, that we should be where we are as much as we can. Our whole mind should be here, and now. 
+In the mindfulness sense, presence is, if I've understood things correctly, that we should be where we are as much as we can. Our whole mind should be here, and now.
 
 When you're not present you're split, either in time or in space. You're being asked to be in two places at once, or to focus on more than one task or problem at the same time.
 
