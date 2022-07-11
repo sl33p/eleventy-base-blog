@@ -1,9 +1,9 @@
 ---
 title: Cathedrals
-description: This is a post on My Blog about win-win survival strategies.
+description: This is a talk delivered at Design and Banter, 3 March 2014
 date: 2014-03-03
 tags:
-  - talk
+  - Talk
   - Gratification
 
 layout: layouts/post.njk

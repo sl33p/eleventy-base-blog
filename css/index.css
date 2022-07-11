@@ -110,7 +110,7 @@ pre {
   hyphens: none;
   padding: 1em;
   margin: .5em 0;
-  background-color: #f6f6f6;
+
 }
 code {
   word-break: break-all;
@@ -254,3 +254,7 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+.prev-next {list-style:none;padding-left:0}
+main.tmpl-post, main.tmpl-home {border-bottom: 1px dashed var(--color-gray-20);}
+.prev-next{border-top: 1px dashed var(--color-gray-20);padding-top:2em;}
