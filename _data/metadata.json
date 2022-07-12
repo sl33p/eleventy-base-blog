@@ -1,13 +1,13 @@
 {
   "title": "Boring Shop",
-  "url": "https://boring.shop",
+  "url": "https://boring.shop/",
   "language": "en",
-  "description": "A collection of blog posts and notes from the desk of </a href=\"/about\">Nicklas de León Persson</a>",
+  "description": "A collection of blog posts and notes from the desk of Nicklas de León Persson",
   "feed": {
     "subtitle": "A collection of blog posts and notes from the desk of Nicklas de León Persson",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://boring.shop"
+    "id": "https://boring.shop/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
