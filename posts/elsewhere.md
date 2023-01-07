@@ -6,7 +6,7 @@ tags:
   - Post
   - Presence
 ---
-# 003. Elsewhere (Presence)
+<p class="subtitle"> 003. Elsewhere (Presence)</p>
 
 In the roll-call, when they call your name you reply with "present", as in I'm here, right now, in this space.
 

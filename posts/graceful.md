@@ -6,7 +6,7 @@ tags:
   - Post
   - Degradation
 ---
-# 005. Graceful (Degradation)
+<p class="subtitle"> 005. Graceful (Degradation)</p>
 
 These thoughts are unstructured, I'm leaving them here to return to them later:
 

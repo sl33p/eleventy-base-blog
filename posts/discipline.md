@@ -6,7 +6,7 @@ tags:
   - Post
   - Preamble
 ---
-# 002. Discipline (Preamble)
+<p class="subtitle"> 002. Discipline (Preamble)</p>
 The purpose of writing whole paragraphs of text instead of bullet points is that you have to have a narrative throughout, which in turn requires you to think, or at least to concentrate, which is what makes it so hard to do.
 
 I don’t know if it’s easier for some people to retain focus, or if I’m just lazy and undisciplined, or if I’d be diagnosed with some attention deficit acronym if a doctor got hold of me.
