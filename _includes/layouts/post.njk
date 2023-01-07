@@ -12,8 +12,6 @@ templateClass: tmpl-post
 {%- endfor %}
 
 <section class="e-content">{{ content | safe }}</section>
-
-<!-- // https://edwardtufte.github.io/tufte-css/ -->
 </article>
 {%- if collections.posts %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
