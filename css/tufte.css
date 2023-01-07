@@ -512,7 +512,6 @@ a[href].direct-link:focus:visited,
   padding: 0;
   list-style: none;
   float: left;
-  margin-left: 1em;
 }
 .nav-item {
   display: inline-block;
@@ -522,6 +521,5 @@ a[href].direct-link:focus:visited,
   text-decoration: none;
 }
 .nav-item-active {
-  font-weight: 700;
   text-decoration: underline;
 }
