@@ -8,15 +8,16 @@ tags:
 
 layout: layouts/post.njk
 ---
-<p class="subtitle"> 001. Building Cathedrals</p>
-
-
-<label for="sn-about"
+<p class="subtitle"> 001. Building Cathedrals <label for="sn-about"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-about"
        class="margin-toggle"/>
+</p>
+
+
+
 <span class="sidenote">This is a talk delivered at Design and Banter, 3 March 2014</span>
 
 
