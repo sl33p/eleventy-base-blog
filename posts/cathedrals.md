@@ -66,11 +66,10 @@ When supporting cathedral building became popular, it was replacing other, longe
 The point about flagellation and long barefoot walks is that you can feel the effect straight away. The instant sensation gives gratification and a promise of having done things right. If it hurts, it must be effective. The instant gratification of getting 43 favourites and retweets is not that different; it's all about affirmation, for you, right now.
 
 
-> "[…] the challenge of making things that endure,
-despite the incentive structure of the real-time web"
-
-<cite>—Alexis C. Madrigal, on Twitter</cite>
-
+<blockquote> <p>"[…] the challenge of making things that endure,
+despite the incentive structure of the real-time web"</p>
+<footer>—Alexis C. Madrigal, on Twitter</footer>
+</blockquote>
 
 We might be able to switch to another model of gratification, much like the people did then. For many,  believing in a specific cause might not even be necessary, the new way of doing things might just be an acceptable replacement for the old. But if we want to lead the way, we need to find the focus, we need to set the goals.
 
