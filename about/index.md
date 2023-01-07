@@ -18,9 +18,9 @@ eleventyNavigation:
 ▒▒██▒▒██▒▒▒▒████████████████▒▒▒██████▒▒▒▒
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</pre>
 
-## Colophon
+<p class="subtitle">Colophon</p>
 
-Boring Shop is a weblog. My name is Nicklas de León Persson, I am  [@takete](https://twitter.com/takete) on Twitter if you want to say hello.
+Boring Shop is a weblog. My name is Nicklas de León Persson, I am  [@takete](https://tilde.zone/@takete) on <del>Twitter</del> Mastodon if you want to say hello.
 
 I used to write on the web, [starting in 2000](http://web.archive.org/web/20010302080315/http://www.takete.com/uncletweed/index.html) and [continued sporadically between 2002-2015](http://web.archive.org/web/20160611002734/http://eljestwhere.org/). Now I'm at it again.
 
