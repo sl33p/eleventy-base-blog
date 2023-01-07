@@ -8,10 +8,16 @@ tags:
 
 layout: layouts/post.njk
 ---
-# 001. Building Cathedrals
+<p class="subtitle"> 001. Building Cathedrals</p>
 
 
-_This is a talk delivered at Design and Banter, 3 March 2014_
+<label for="sn-about"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-about"
+       class="margin-toggle"/>
+<span class="sidenote">This is a talk delivered at Design and Banter, 3 March 2014</span>
 
 
 The people who built cathedrals knew they wouldn't be alive to see them finished. We need an ounce of that thinking back. Our preoccupation with caching out, writing (and reading) in short form, constantly moving to stay on the edge is not sustainable. We need to take a longer view.
