@@ -18,18 +18,16 @@ The people who built cathedrals knew they wouldn't be alive to see them finished
 
 In _The Cathedral Builders_ (PIMLICO: London, 1993), Jean Gimpel writes
 
-
-> "As cathedrals took decades,
+<blockquote><p>"As cathedrals took decades,
 and often even centuries to complete,
 few people who worked on them expected to
-see them finished during their lifetimes.
-
-
-> Being involved in the construction of a
+see them finished during their lifetimes.</p>
+<p>Being involved in the construction of a
 cathedral, […] required a willingness to be
-part of a process that was larger than oneself."
+part of a process that was larger than oneself."</p>
+<footer>—Jean Gimpel, The Cathedral Builders</footer>
+</blockquote>
 
-<cite>–Jean Gimpel, The Cathedral Builders</cite>
 
 
 Today, the idea of starting a project which wouldn't ship for a century seems preposterous. Our world moves much faster, and our plans are much shorter.
@@ -66,10 +64,10 @@ When supporting cathedral building became popular, it was replacing other, longe
 The point about flagellation and long barefoot walks is that you can feel the effect straight away. The instant sensation gives gratification and a promise of having done things right. If it hurts, it must be effective. The instant gratification of getting 43 favourites and retweets is not that different; it's all about affirmation, for you, right now.
 
 
-<blockquote> <p>"[…] the challenge of making things that endure,
+<blockquote><p>"[…] the challenge of making things that endure,
 despite the incentive structure of the real-time web"</p>
 <footer>—Alexis C. Madrigal, on Twitter</footer>
-</blockquote>
+</blockquote> <!-- this works -->
 
 We might be able to switch to another model of gratification, much like the people did then. For many,  believing in a specific cause might not even be necessary, the new way of doing things might just be an acceptable replacement for the old. But if we want to lead the way, we need to find the focus, we need to set the goals.
 
@@ -77,11 +75,12 @@ We might be able to switch to another model of gratification, much like the peop
 
 This is not (necessarily) about saving the world. It's about getting excited about creating work which is more sustainable, which looks a little further than the horizon.
 
+<blockquote><p>"Can we build digital products around sustainable
+systems that survive long enough to outlive us?"</p>
+<footer>—Wilson Miner, The Manual</footer>
+</blockquote>
 
-> "Can we build digital products around sustainable
-systems that survive long enough to outlive us?"
 
-<cite>—Wilson Miner, The Manual</cite>
 
 If we were to change the way we looked at our work, and imagined a timescale of decades instead of weeks, what would we change about what we do?
 
