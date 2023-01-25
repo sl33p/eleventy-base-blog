@@ -523,3 +523,5 @@ a[href].direct-link:focus:visited,
 .nav-item-active {
   text-decoration: underline;
 }
+
+.post-tag { color: #FF2600; } /* Maraschino */
