@@ -524,4 +524,4 @@ a[href].direct-link:focus:visited,
   text-decoration: underline;
 }
 
-a.post-tag { color: #a64242; } /* Not Maraschino, alas! */
+a.post-tag { color: #a64242; font-size:1.1rem;} /* Not Maraschino, alas! */
